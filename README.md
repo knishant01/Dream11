@@ -28,4 +28,4 @@ We are validating more than 5 types of contest types are displayed or not
 
 
 # Results :
-#All the required results will be fullifilled by this script
+# All the required results will be fullifilled by this script
