@@ -22,7 +22,7 @@ We are validating more than 5 types of contest types are displayed or not
 # Execution :
 
 # for executing it, please run command from window cmd : java -jar Dream11-1-jar-with-dependencies.jar
-# before excuting above cmd please change below path in the config.properties file
+# before excuting above cmd please change below path in the Dream.java file at line number 51
 # wedriver.chrome.driver=C:/Users/knishant/Downloads/chromedriver_win32/chromedriver.exe
 # above cmd will successfully run Dream11 automation with selemium script.
 
